@@ -1,5 +1,5 @@
 # Cloud web-app deployment
-![Final Website](./images/final-website.png")
+![Final Website](./images/final-website.png)
 The application should:
 
 	•	Display a list of manhwa titles, their genres, and brief descriptions using mock data (e.g., a JSON file).
