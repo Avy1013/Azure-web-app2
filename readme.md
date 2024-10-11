@@ -15,4 +15,9 @@ The application should:
  2.  Apply the terraform commands and deploy the infrastructure
  3.  Visual guide via portal
 
-## With ARM Templates 
+## 1. Via ARM Templates 
+ - 
+
+## 3. Visual gide via portal
+- https://docs.google.com/presentation/d/1FbxPFlH__1eBkiUiG1t_GBxOmEHlzUogF2BeNS7kIHA/edit?usp=sharing
+- or see the pdf in folder az_portal_visual_guide
