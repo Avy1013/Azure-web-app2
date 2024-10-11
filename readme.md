@@ -17,7 +17,8 @@ The application should:
  3.  Visual guide via portal
 
 ## 1. Via ARM Templates 
- - 
+ -  use this command to deploy the infra structure
+ -  az deployment group create --resource-group MyResourceGroup --template-file template.json --parameters parameters.json
 
 ## 3. Visual gide via portal
 - https://docs.google.com/presentation/d/1FbxPFlH__1eBkiUiG1t_GBxOmEHlzUogF2BeNS7kIHA/edit?usp=sharing
