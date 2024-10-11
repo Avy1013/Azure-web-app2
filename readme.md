@@ -16,11 +16,15 @@ The application should:
  1.  With azure cli using ARM template 
  2.  Apply the terraform commands and deploy the infrastructure
  3.  Visual guide via portal
-
+#### Extra things
+  - I have used the sample data inside insert_data.sql file
+  - App service provides ssl automatically
+  - For database only the app service outbound ip was used to make it more secure
 ## 1. Via ARM Templates 
  -  use this command to deploy the infra structure
  -  az deployment group create --resource-group MyResourceGroup --template-file template.json --parameters parameters.json
-
+## 2. With terraform use the terraform scripts (although arm recommended)
+ - See main.tf inside Terraform folder
 ## 3. Visual gide via portal
 - https://docs.google.com/presentation/d/1FbxPFlH__1eBkiUiG1t_GBxOmEHlzUogF2BeNS7kIHA/edit?usp=sharing
 - or see the pdf in folder az_portal_visual_guide
