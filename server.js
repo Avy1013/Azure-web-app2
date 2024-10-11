@@ -4,10 +4,10 @@ const app = express();
 
 // Azure SQL connection configuration
 const config = {
-    user: 'test',                               // Your SQL username
-    password: '1234very_strong_password',       // Your SQL password
+    user: 'avy',                               // Your SQL username
+    password: 'password1234_',       // Your SQL password
     server: 'avy1013.database.windows.net',
-    database: 'avy',                            // Your database name
+    database: 'Manhwa-app',                            // Your database name
     options: {
         encrypt: true                           // Use encryption for Azure SQL
     }
