@@ -11,8 +11,8 @@ The application should:
 	•	Enabling HTTPS for the application using a cloud service (e.g., AWS Certificate Manager or Azure SSL).
 	•	Configuring basic firewall rules to restrict access to necessary ports.
 ### Process
- -  With azure cli using ARM template 
- -  Apply the terraform commands and deploy the infrastructure
- -  Visual guide via portal
+ 1.  With azure cli using ARM template 
+ 2.  Apply the terraform commands and deploy the infrastructure
+ 3.  Visual guide via portal
 
 ## With ARM Templates 
